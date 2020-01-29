@@ -20,11 +20,13 @@
   "background": {
     "scripts": ["background.js"]
   },
+
   "browser_specific_settings": {
     "gecko": {
       "id": " {ec8030f7-c20a-464f-9b0e-13a3a9e97384}",
       "strict_min_version": "57.0"
-    }
+    },
+
   "icons": {
     "48": "icons/raven-48.png"
   },
